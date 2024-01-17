@@ -1,5 +1,5 @@
 # rnn-practice
-My attempts to code basic RNN architectures to get to know the topic better.
+My attempts to code basic RNN architectures to get to know the topic better (I partly use other people's code).
 
 What I have so far:
 1) RNN from scratch
